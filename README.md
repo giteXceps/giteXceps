@@ -3,9 +3,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gitexceps&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=true" height="125" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=gitexceps&locale=en&mode=daily&theme=onedark&hide_border=true&border_radius=5" height="125" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gitexceps&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=true" height="125" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=gitexceps&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=true" height="100" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=gitexceps&locale=en&mode=daily&theme=onedark&hide_border=true&border_radius=5" height="100" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gitexceps&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=true" height="100" alt="languages graph"  />
 </div>
 
 ###
@@ -34,9 +34,6 @@
   </a>
   <a href="https://www.twitch.tv/exceps" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
-  <a href=”mailto: sefametin68@gmail.com”>
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
