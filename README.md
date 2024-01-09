@@ -11,7 +11,7 @@
 👋 I’m Sefa "eXceps" Metin<br>👀 I am studying at İnönü University software engineering department.(First year)<br>🌱 I’m currently learning C<br>🌱 I'm interested in expanding my knowledge in programming<br>💞️ I'm looking to collaborate on any beginner project<br>📫 Yo can reach me from sefametindev@gmail.com
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/3rgGmae) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sefametin_) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/exceps) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/excepsdiyorum) 
 
 # 💻 Tech Stack:
