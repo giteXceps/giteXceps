@@ -6,8 +6,9 @@
 ###
 
 <img align="right" height="200" src="https://media.discordapp.net/attachments/606939174913835037/1194011722143518761/1x1_logopng.png?ex=65aecd12&is=659c5812&hm=2ab5cc3763e16f2d50e0721747becaaab05fc9a7728c84b498652008947e8dd9&=&format=webp&quality=lossless&width=477&height=477"  />
+
 # 💫 About Me:
-👋 Hi, I’m Sefa "eXceps" Metin<br>👀 I am studying at İnönü University software engineering department.(First year)<br>🌱 I’m currently learning C<br>🌱 I'm interested in expanding my knowledge in programming<br>💞️ I'm looking to collaborate on any beginner project<br>📫 Yo can reach me from sefametindev@gmail.com
+👋 I’m Sefa "eXceps" Metin<br>👀 I am studying at İnönü University software engineering department.(First year)<br>🌱 I’m currently learning C<br>🌱 I'm interested in expanding my knowledge in programming<br>💞️ I'm looking to collaborate on any beginner project<br>📫 Yo can reach me from sefametindev@gmail.com
 
 
 ## 🌐 Socials:
@@ -29,21 +30,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=gitexceps&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<div align="left">
-  <a href="https://www.instagram.com/sefametin_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.twitch.tv/exceps" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://profile-counter.glitch.me/gitexceps/count.svg?"  />
 </div>
 
