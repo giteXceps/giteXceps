@@ -29,7 +29,7 @@
 <div align="center">
   [![](https://visitcount.itsvg.in/api?id=gitexceps&icon=0&color=0)](https://visitcount.itsvg.in)
   <img src="https://profile-counter.glitch.me/gitexceps/count.svg?"  />
-  <img src="https://visitcount.itsvg.in/api?id=gitexceps&icon=0&color=0)](https://visitcount.itsvg.in"  />
+  <img src="[![](https://visitcount.itsvg.in/api?id=gitexceps&icon=0&color=0)](https://visitcount.itsvg.in)"  />
 </div>
 
 ###
